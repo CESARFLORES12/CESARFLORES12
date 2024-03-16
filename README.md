@@ -2,6 +2,7 @@
 
 int main()
 {
+
     float numero1, numero2;
     std::cout<<"Escribe el primer numero";
     std::cin >>numero1;
